@@ -1,0 +1,21 @@
+{
+  "name": "n-body-simulator",
+  "homepage": "https://github.com/mcnuttandrew/N-Body-Simulator",
+  "authors": [
+    "mcnutt.andrew@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Processing.js": "~1.4.13"
+  }
+}
